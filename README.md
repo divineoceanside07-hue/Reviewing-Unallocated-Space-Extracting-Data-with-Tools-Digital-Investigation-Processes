@@ -44,6 +44,18 @@ flowchart TD
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
 
+<img width="1312" height="782" alt="image" src="https://github.com/user-attachments/assets/0970d9c6-4ed2-41bf-a04b-e18f1280ddee" />
+
+<img width="1263" height="767" alt="image" src="https://github.com/user-attachments/assets/376f7fe8-12ba-4843-b56d-36a8d61eed27" />
+
+<img width="1263" height="877" alt="image" src="https://github.com/user-attachments/assets/01c4699b-66d7-471a-9714-dec599557500" />
+
+<img width="1337" height="847" alt="image" src="https://github.com/user-attachments/assets/1d205c73-5ef9-4072-b34e-c71088539957" />
+
+
+<img width="1526" height="697" alt="image" src="https://github.com/user-attachments/assets/ce00d2f6-b3a8-4898-9f70-dfcba67424ca" />
+
+
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
 
